@@ -1,2 +1,2 @@
-lxterminal -e ~/forkbomb.sh
-lxterminal -e ~/forkbomb.sh
+lxterminal -e ~/run.sh
+lxterminal -e ~/run.sh
