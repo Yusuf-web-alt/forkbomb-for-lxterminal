@@ -1,2 +1,2 @@
-mv run.sh ~/run.sh
+mv ./run.sh ~/run.sh
 ~/run.sh
